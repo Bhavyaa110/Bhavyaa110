@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:3B82F6,100:A855F7&text=Bhavya&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Backend%20Engineer&descSize=18&descAlignY=55"/>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Build.%20Learn.%20Improve.%20Repeat." alt="Typing introduction" />
 </p>
