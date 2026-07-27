@@ -1,57 +1,112 @@
-### Hey there, 
-I'm Bhavya, a third-year engineering student at Thapar Institute of Engineering & Technology with a strong interest in building meaningful tech solutions. I love blending creativity with code, whether it's designing intuitive user interfaces or implementing AI-powered backend logic. I'm currently diving deeper into full-stack development and applied machine learning.
-
-
-I'm passionate about using technology to solve real-world problems, especially those that make systems smarter, experiences smoother, and lives easier. 
-
-🚀 Always learning. Always building. Always improving.
-
----
-
-### 🔧 Skills
-
-**Languages:** C, C++, Python, R, SQL, Java, HTML, CSS, JavaScript  
-**Frameworks & Libraries:** React, Node.js, Flask  
-**ML & AI Tools:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
-**Databases:** MySQL, Oracle Live SQL  
-**Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebooks  
-**Coursework:** DSA, Machine Learning, OOPS, DBMS, OS, Web Dev, Secure Networks  
-**Interests:** UI/UX, Backend Development, Data Analysis, Web Apps, System Design, REST APIs
-
-
----
-
-### 🚀 Projects
-
-- **Mess Management System (MEXX)**  
-  Developed a smart mess management system using Flask, React, and MySQL to reduce food wastage and streamline costs by collecting meal confirmations, integrating QR-based attendance tracking, and automating daily menu and ticket operations through RESTful APIs.
-
-- **Suicide Rate Prediction System**  
-  Designed a machine learning system using Python, Scikit-learn, and different ML algorithms to analyze global suicide trends using socio-economic datasets (WHO, World Bank, UNDP), achieving 98.8% accuracy by XGboost and performing statistical analysis (T-test, Chi-square) to assess the influence of age and gender.
-
-- **Sports Equipment Rental Portal**  
-  Developed a full-stack web platform using JavaScript and PHP with real-time inventory tracking, authentication, and admin dashboards to manage sports gear rentals, reducing equipment loss by 70% and boosting student participation by 30%.
-
-
-### 📈 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:3B82F6,100:A855F7&text=Bhavya&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Backend%20Engineer&descSize=18&descAlignY=55"/>
 
 <p align="center">
-  <img width="420" height="170" src="https://github-readme-stats.vercel.app/api?username=Bhavyaa110&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
-  <img width="420" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyaa110&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="840" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhavyaa110&theme=radical" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Build.%20Learn.%20Improve.%20Repeat." alt="Typing introduction" />
 </p>
 
 
----
+## About Me
+🌱 Currently building scalable full-stack applications and exploring AI/ML systems
 
-### 📫 Let's Connect
+🚀 Winner — TVS Credit EPiC 7.0 IT Challenge
 
-- [LinkedIn](https://www.linkedin.com/in/bhavya-ag65/)
-- [Email](mailto:bhavya.ag65@gmail.com)
+💻 Tech Stack: C++, Python, TypeScript, React, Next.js, Flask, Node.js, PostgreSQL, Docker
 
----
+📚 Solved 200+ DSA problems across LeetCode
 
-✨ Always open to collaborating on impactful projects, learning new tech, and solving real-world problems!
+🤝 Open to Software Engineering and AI/ML internship opportunities
+
+📫 Reach me at: bhavya.ag65@gmail.com
+
+
+## My Focus Areas
+
+- Backend Engineering
+- Artificial Intelligence & Machine Learning
+- Full-Stack Development
+- System Design
+- Database Design & Optimization
+- REST API Development
+- Cloud & DevOps
+- Data Structures & Algorithms
+
+
+## Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/>
+<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+## Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhavya-ag65/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:bhavya.ag65@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bhavyaa110&theme=tokyonight&hide_border=true"/>
+</p>
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bhavyaa110/Bhavyaa110/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<p align="center">
+  <i>"Build software that solves real problems."</i>
+</p>
