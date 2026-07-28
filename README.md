@@ -75,7 +75,6 @@
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/>
-<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -92,12 +91,6 @@
   <a href="mailto:bhavya.ag65@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
-</p>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhavyaa110&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## Contribution Graph
